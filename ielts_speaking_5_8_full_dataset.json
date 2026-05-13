@@ -1,0 +1,1568 @@
+{
+  "part1": [
+    {
+      "id": "p1-work-study",
+      "title": "Work / Study",
+      "pool": "必考题",
+      "category": "学习 / 工作",
+      "priority": 5,
+      "questions": [
+        "Do you work or are you a student?",
+        "What do you do?",
+        "Why did you choose to do this type of work?",
+        "Do you like your job? Why/Why not?",
+        "What do you find the most interesting about the work you do? Why?",
+        "Will you need to do any more study for your job?",
+        "Where do you work?",
+        "Is it a good place to work?",
+        "Would you like the place where you work to make any changes?",
+        "What technology do you use at work?",
+        "What subjects are you studying?",
+        "Why did you choose to study this subject?",
+        "What do you like about your course?",
+        "What would you like to do after you finish your course?",
+        "Do you prefer to study in the mornings or in the afternoons?",
+        "Do you think you will miss being a student once you finish your studies? Why/why not?",
+        "What technology do you use when you study?",
+        "Are you enjoying your studies at the moment? Why/why not?"
+      ]
+    },
+    {
+      "id": "p1-hometown",
+      "title": "Hometown",
+      "pool": "必考题",
+      "category": "地点 / 个人",
+      "priority": 5,
+      "questions": [
+        "Where is your hometown?",
+        "What kind of place is it?",
+        "How long have you lived there?",
+        "What is one of the best things about living there?",
+        "Is there anything you dislike about it?",
+        "Do you know many people who live nearby?",
+        "Do you have any relatives who still live in your hometown? Why/Why not?",
+        "Do you often go back to visit your hometown? Why/Why not?",
+        "Can you describe your hometown a little bit?",
+        "Do you like it?",
+        "Did you like living there?",
+        "Do you think you'll continue living there for a long time?"
+      ]
+    },
+    {
+      "id": "p1-home-accommodation",
+      "title": "Home / Accommodation",
+      "pool": "必考题",
+      "category": "地点 / 个人",
+      "priority": 5,
+      "questions": [
+        "Do you live in a house or an apartment?",
+        "Do you prefer living in a house or an apartment?",
+        "Do you live with anyone else? Why/Why not?",
+        "Do you like the place you currently live in? Why/Why not?",
+        "What is your favourite room in your house/apartment?",
+        "Would you like to change anything in your house/apartment?",
+        "Would you like to move to a different house/apartment in the future?",
+        "What do you think makes a place comfortable to live in?"
+      ]
+    },
+    {
+      "id": "p1-area-live",
+      "title": "The area you live in",
+      "pool": "必考题",
+      "category": "地点 / 个人",
+      "priority": 5,
+      "questions": [
+        "Where are you living at the moment?",
+        "What kind of area is it?",
+        "How long have you lived there?",
+        "Do you know any of your neighbours?",
+        "What do you like about living there?",
+        "What changes have taken place in the area recently?",
+        "Would you like to change anything about your area? Why/ Why not?",
+        "Would you like to continue living there in the future? Why/ Why not?"
+      ]
+    },
+    {
+      "id": "p1-city-live",
+      "title": "The city you live in",
+      "pool": "必考题",
+      "category": "地点 / 个人",
+      "priority": 5,
+      "questions": [
+        "What city do you live in?",
+        "Do you like this city? why?",
+        "How long have you lived in this city?",
+        "Are there big changes in this city?",
+        "Is this city your permanent residence?",
+        "Are there people of different ages living in this city?"
+      ]
+    },
+    {
+      "id": "p1-teachers",
+      "title": "Teachers",
+      "pool": "5-8新题",
+      "category": "人物 / 学习",
+      "priority": 5,
+      "questions": [
+        "Do you have a favorite teacher?",
+        "Do you want to be a teacher in the future?",
+        "Do you have a teacher from your past that you still remember?",
+        "Are you still in touch with your primary school teachers?",
+        "In what way has your favourite teacher helped you?"
+      ]
+    },
+    {
+      "id": "p1-social-media",
+      "title": "Social media",
+      "pool": "5-8新题",
+      "category": "科技 / 社交",
+      "priority": 5,
+      "questions": [
+        "Have you ever posted anything on social media?",
+        "When did you start using social media?",
+        "Do you think you spend too much time on social media?",
+        "Do your friends use social media?",
+        "What do people often do on social media?"
+      ]
+    },
+    {
+      "id": "p1-music",
+      "title": "Music",
+      "pool": "5-8新题",
+      "category": "兴趣 / 艺术",
+      "priority": 5,
+      "questions": [
+        "Do you like music?",
+        "What kinds of music do you listen to?",
+        "Do you prefer sad or happy music?",
+        "Does happy music make you feel more excited?",
+        "Is it easy to learn music?",
+        "Do you learn music lessons at school?"
+      ]
+    },
+    {
+      "id": "p1-tidiness",
+      "title": "Tidiness",
+      "pool": "5-8新题",
+      "category": "生活习惯",
+      "priority": 5,
+      "questions": [
+        "Do you like to keep things tidy?",
+        "Did you use to keep your room tidy as a child?",
+        "Are you a tidy person now?",
+        "What do you think of those who don't care about tidiness?",
+        "What do you think of those who are overly concerned about tidiness?"
+      ]
+    },
+    {
+      "id": "p1-websites",
+      "title": "Websites",
+      "pool": "5-8新题",
+      "category": "科技 / 信息",
+      "priority": 5,
+      "questions": [
+        "What kinds of websites do you often visit?",
+        "What is your favourite website?",
+        "Are there any changes to the websites you often visit?",
+        "What kinds of websites are popular in your country?"
+      ]
+    },
+    {
+      "id": "p1-watch",
+      "title": "Watch",
+      "pool": "5-8新题",
+      "category": "物品 / 生活",
+      "priority": 5,
+      "questions": [
+        "Do you wear a watch?",
+        "Have you ever got a watch as a gift?",
+        "Why do some people wear expensive watches?",
+        "Do you think it is important to wear a watch? Why?"
+      ]
+    },
+    {
+      "id": "p1-shopping",
+      "title": "Shopping",
+      "pool": "5-8新题",
+      "category": "消费 / 生活",
+      "priority": 5,
+      "questions": [
+        "Do you like shopping?",
+        "How often do you go shopping?",
+        "Do you prefer online shopping or in-store shopping?",
+        "Do you compare prices when you shop? Why?",
+        "Is it difficult for you to make choices when you shop?",
+        "Do you think expensive products are always better than cheaper ones?",
+        "Have you ever returned anything you bought online?"
+      ]
+    },
+    {
+      "id": "p1-feeling-bored",
+      "title": "Feeling bored",
+      "pool": "5-8新题",
+      "category": "情绪 / 生活",
+      "priority": 5,
+      "questions": [
+        "Do you often feel bored?",
+        "Did you ever find school boring when you were a child?",
+        "What sort of things do you find most boring now?",
+        "What do you do to stop yourself feeling bored?",
+        "When would you feel bored?",
+        "What do you do when you feel bored?",
+        "Do you think childhood is boring or adulthood is boring?"
+      ]
+    },
+    {
+      "id": "p1-parks",
+      "title": "Parks",
+      "pool": "5-8新题",
+      "category": "地点 / 自然",
+      "priority": 5,
+      "questions": [
+        "Did you like going to parks as a child?",
+        "Do you still like going to parks now?",
+        "Would you like to see more parks in your city?",
+        "Are there any parks you want to go to in the future?"
+      ]
+    },
+    {
+      "id": "p1-cars",
+      "title": "Cars",
+      "pool": "5-8新题",
+      "category": "交通 / 生活",
+      "priority": 5,
+      "questions": [
+        "Did you enjoy traveling by car when you were a kid?",
+        "What types of cars do you like?",
+        "Do you prefer to be a driver or a passenger?",
+        "What do you usually do when there is a traffic jam?",
+        "Do you think car colours are important?"
+      ]
+    },
+    {
+      "id": "p1-outer-space-stars",
+      "title": "Outer space and stars",
+      "pool": "5-8新题",
+      "category": "科学 / 想象",
+      "priority": 5,
+      "questions": [
+        "Have you ever learnt about outer space and stars?",
+        "Do you enjoy watching science-fiction films/movies set in space?",
+        "Do you want to know more about outer space?",
+        "Would you like to go into outer space in the future?"
+      ]
+    },
+    {
+      "id": "p1-science",
+      "title": "Science",
+      "pool": "5-8新题",
+      "category": "科学 / 学习",
+      "priority": 5,
+      "questions": [
+        "Do you like science?",
+        "When did you start to learn about science?",
+        "Which science subject is interesting to you?",
+        "What kinds of interesting things have you done with science?",
+        "Do you like watching science TV programs?",
+        "Do Chinese people often visit science museums?"
+      ]
+    },
+    {
+      "id": "p1-mirrors",
+      "title": "Mirrors",
+      "pool": "5-8新题",
+      "category": "物品 / 家居",
+      "priority": 5,
+      "questions": [
+        "Do you like looking at yourself in the mirror? How often?",
+        "Have you ever bought mirrors?",
+        "Do you usually take a mirror with you?",
+        "Would you use mirrors to decorate your room?"
+      ]
+    },
+    {
+      "id": "p1-telling-jokes",
+      "title": "Telling Jokes",
+      "pool": "5-8新题",
+      "category": "社交 / 娱乐",
+      "priority": 5,
+      "questions": [
+        "Do you like to tell jokes?",
+        "Do you have friends who love telling jokes?",
+        "What are some common comedy shows in your country?",
+        "Do you often joke with your friends?",
+        "Do you like being joked about?"
+      ]
+    },
+    {
+      "id": "p1-headphone",
+      "title": "Headphone",
+      "pool": "5-8新题",
+      "category": "物品 / 科技",
+      "priority": 5,
+      "questions": [
+        "Do you use headphones?",
+        "How often do you wear headphones?",
+        "Do you think headphones are useful?",
+        "Are headphones popular in your country?",
+        "In what situations should people not wear headphones?"
+      ]
+    },
+    {
+      "id": "p1-singing",
+      "title": "Singing",
+      "pool": "5-8新题",
+      "category": "兴趣 / 艺术",
+      "priority": 5,
+      "questions": [
+        "Did you like singing when you were a child?",
+        "Do you like singing now?",
+        "Do you enjoy singing in the car?",
+        "Do you like listening to other people sing?",
+        "Did you learn to sing when you were at school?"
+      ]
+    },
+    {
+      "id": "p1-clothes",
+      "title": "Clothes",
+      "pool": "5-8新题",
+      "category": "物品 / 日常",
+      "priority": 5,
+      "questions": [
+        "What kind of clothes do you like to wear?",
+        "Do you prefer to wear comfortable and casual clothes or formal clothes?",
+        "Do you like wearing T-shirts?",
+        "Do you spend a lot of time choosing clothes?"
+      ]
+    },
+    {
+      "id": "p1-pets-animals",
+      "title": "Pets and Animals",
+      "pool": "保留旧题",
+      "category": "动物 / 生活",
+      "priority": 3,
+      "questions": [
+        "What's your favourite animal? Why?",
+        "Have you ever had a pet before?",
+        "Where do you prefer to keep your pet, indoors or outdoors?",
+        "What is the most popular animal in China?"
+      ]
+    },
+    {
+      "id": "p1-food",
+      "title": "Food",
+      "pool": "保留旧题",
+      "category": "饮食 / 生活",
+      "priority": 3,
+      "questions": [
+        "What is your favourite food?",
+        "What kind of food did you like when you were young?",
+        "Do you eat different foods at different times of the year?",
+        "Has your favourite food changed since you were a child?"
+      ]
+    },
+    {
+      "id": "p1-walking",
+      "title": "Walking",
+      "pool": "保留旧题",
+      "category": "运动 / 地点",
+      "priority": 3,
+      "questions": [
+        "Do you walk a lot?",
+        "Did you often go outside to have a walk when you were a child?",
+        "Why do people like to walk in parks?",
+        "Where would you like to take a long walk if you had the chance?",
+        "Where did you go for a walk lately?"
+      ]
+    },
+    {
+      "id": "p1-morning-time",
+      "title": "Morning time",
+      "pool": "保留旧题",
+      "category": "生活习惯",
+      "priority": 3,
+      "questions": [
+        "Do you like getting up early in the morning?",
+        "What do you usually do in the morning?",
+        "What did you do in the morning when you were little? Why?",
+        "Are there any differences between what you do in the morning now and what you did in the past?",
+        "Do you spend your mornings doing the same things on both weekends and weekdays? Why?"
+      ]
+    },
+    {
+      "id": "p1-gifts",
+      "title": "Gifts",
+      "pool": "保留旧题",
+      "category": "物品 / 社交",
+      "priority": 3,
+      "questions": [
+        "Have you ever sent handmade gifts to others?",
+        "Have you ever received a great gift?",
+        "What do you consider when choosing a gift?",
+        "Do you think you are good at choosing gifts?",
+        "What gift have you received recently?"
+      ]
+    },
+    {
+      "id": "p1-reading",
+      "title": "Reading",
+      "pool": "保留旧题",
+      "category": "学习 / 兴趣",
+      "priority": 3,
+      "questions": [
+        "Do you like reading?",
+        "Do you prefer to read on paper or on a screen?",
+        "When do you need to read carefully, and when not?",
+        "Do you prefer scanning or detailed reading?"
+      ]
+    },
+    {
+      "id": "p1-sports-team",
+      "title": "Sports team",
+      "pool": "保留旧题",
+      "category": "运动 / 团队",
+      "priority": 3,
+      "questions": [
+        "Have you ever been part of a sports team?",
+        "Are team sports popular in your culture?",
+        "Do you like to watch team games? Why?",
+        "What are the differences between team sports and individual sports?"
+      ]
+    },
+    {
+      "id": "p1-hobby",
+      "title": "Hobby",
+      "pool": "保留旧题",
+      "category": "兴趣 / 生活",
+      "priority": 3,
+      "questions": [
+        "Do you have any hobbies?",
+        "Did you have any hobbies when you were a child?",
+        "Do you have a hobby that you've had since childhood?",
+        "Do you have the same hobbies as your family members?"
+      ]
+    },
+    {
+      "id": "p1-typing",
+      "title": "Typing",
+      "pool": "保留旧题",
+      "category": "技能 / 科技",
+      "priority": 3,
+      "questions": [
+        "Do you prefer typing or handwriting?",
+        "Do you type on a desktop or laptop keyboard every day?",
+        "When did you learn how to type on a keyboard?",
+        "How do you improve your typing?"
+      ]
+    },
+    {
+      "id": "p1-building",
+      "title": "Building",
+      "pool": "保留旧题",
+      "category": "地点 / 建筑",
+      "priority": 3,
+      "questions": [
+        "Are there tall buildings near your home?",
+        "Do you take photos of buildings?",
+        "Is there a building that you would like to visit?",
+        "Do you want to live in a tall building?"
+      ]
+    },
+    {
+      "id": "p1-childhood-activities",
+      "title": "Childhood activities",
+      "pool": "保留旧题",
+      "category": "童年 / 活动",
+      "priority": 3,
+      "questions": [
+        "What are your favourite activities?",
+        "What were your favourite activities when you were a child?",
+        "Did you prefer to do activities alone or with a group of people when you were a child?",
+        "Are there any differences between the activities you liked when you were a child and those you like now?"
+      ]
+    },
+    {
+      "id": "p1-scenery",
+      "title": "Scenery",
+      "pool": "保留旧题",
+      "category": "自然 / 旅行",
+      "priority": 3,
+      "questions": [
+        "Do you look out the window at the scenery when travelling by bus or car?",
+        "Do you prefer the mountains or the sea?",
+        "Do you like to take pictures of the scenery?",
+        "What are the most beautiful sights you have seen while traveling?"
+      ]
+    },
+    {
+      "id": "p1-view",
+      "title": "View",
+      "pool": "保留旧题",
+      "category": "自然 / 城市",
+      "priority": 3,
+      "questions": [
+        "Do you like taking pictures of different views?",
+        "Do you prefer views in urban areas or rural areas?",
+        "Do you prefer views in your own country or in other countries?",
+        "Have you ever seen an unforgettable and beautiful view or scenery?"
+      ]
+    },
+    {
+      "id": "p1-life-stages",
+      "title": "Life Stages",
+      "pool": "保留旧题",
+      "category": "人生 / 个人",
+      "priority": 3,
+      "questions": [
+        "What did you often do with your friends in your childhood?",
+        "What do you think is the most important at the moment?",
+        "Do you have any plans for the next five years?",
+        "How do people remember each stage of their lives?",
+        "Do you enjoy being the age you are now?",
+        "At what age do you think people are the happiest?"
+      ]
+    },
+    {
+      "id": "p1-daily-routine",
+      "title": "Daily routine",
+      "pool": "保留旧题",
+      "category": "学习 / 生活习惯",
+      "priority": 3,
+      "questions": [
+        "What is your daily study routine?",
+        "Have you ever changed your routine?",
+        "Do you think it is important to have a daily routine for your study?",
+        "What part of your day do you like best?",
+        "Do you often go to bed late or early?"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "p2-tall-building-like-dislike",
+      "title": "Describe a tall building you like or dislike",
+      "pool": "5-8新题",
+      "category": "地点 / 建筑",
+      "priority": 5,
+      "cue": [
+        "What it is used for",
+        "Where it is",
+        "What it looks like",
+        "And explain why you like/dislike it"
+      ],
+      "part3": [
+        "Are there many tall buildings in your country?",
+        "What are the differences between those tall buildings in your country?",
+        "Why are different places laid out and designed differently?"
+      ]
+    },
+    {
+      "id": "p2-interesting-video",
+      "title": "Describe an interesting video",
+      "pool": "5-8新题",
+      "category": "媒体 / 科技",
+      "priority": 5,
+      "cue": [
+        "When and where you watched it",
+        "What it is about",
+        "Why you watched it",
+        "And explain how you feel about it"
+      ],
+      "part3": [
+        "What kind of videos do people in your country like to watch?",
+        "Which is more helpful, watching videos or reading books?",
+        "What skills can people learn from watching videos?",
+        "Are there any differences between the videos that young people and old people like to watch?"
+      ]
+    },
+    {
+      "id": "p2-got-up-early",
+      "title": "Describe a time when you got up early",
+      "pool": "5-8新题",
+      "category": "经历 / 生活习惯",
+      "priority": 5,
+      "cue": [
+        "When it was",
+        "What you did",
+        "Why you got up early",
+        "And how you felt about it"
+      ],
+      "part3": [
+        "Do you know anyone who likes to get up early?",
+        "Why do people get up early?",
+        "What kinds of occasions need people to arrive early?",
+        "Why do some people like to stay up late?",
+        "Is it good to arrive early in any situation?"
+      ]
+    },
+    {
+      "id": "p2-boring-place",
+      "title": "Describe a boring place",
+      "pool": "5-8新题",
+      "category": "地点 / 情绪",
+      "priority": 5,
+      "cue": [
+        "Where it is",
+        "Who you went there with",
+        "What you did there",
+        "And explain why you think it is a boring place"
+      ],
+      "part3": [
+        "Why do most children think education is boring?",
+        "Why aren't young people willing to listen to the experiences of older people?",
+        "What can people do when they feel bored?",
+        "Why are some teachers' classes boring? Are there any solutions?"
+      ]
+    },
+    {
+      "id": "p2-childhood-friend",
+      "title": "Describe a friend from your childhood",
+      "pool": "5-8新题",
+      "category": "人物 / 童年",
+      "priority": 5,
+      "cue": [
+        "Who he/she is",
+        "Where and how you met each other",
+        "What you often did together",
+        "And explain what made you like him/her"
+      ],
+      "part3": [
+        "Do you still keep in touch with your friends from childhood? Why or why not?",
+        "How important is a childhood friendship to children?",
+        "What do you think of communicating with others through social media?",
+        "Do you think online communication through social media will replace face-to-face communication?",
+        "What's the difference between talking to friends and family?",
+        "Has technology changed people's friendships? How?"
+      ]
+    },
+    {
+      "id": "p2-favorite-city-visited",
+      "title": "Describe your favorite city that you have visited",
+      "pool": "5-8新题",
+      "category": "地点 / 旅行",
+      "priority": 5,
+      "cue": [
+        "Where it is",
+        "How you knew it",
+        "When you visited it",
+        "And explain why it is your favourite city"
+      ],
+      "part3": [
+        "Which is more suitable for young people, urban life or rural life, and which is more suitable for old people?",
+        "How do people choose a city to travel to?",
+        "Do you think a tourist city is also a good place to live? Why?",
+        "Do most people prefer to travel in a modern city or a historical city?"
+      ]
+    },
+    {
+      "id": "p2-person-grow-plants",
+      "title": "Describe a person who loves to grow plants at home or in the garden",
+      "pool": "5-8新题",
+      "category": "人物 / 自然",
+      "priority": 5,
+      "cue": [
+        "Who this person is",
+        "What plants he/she grows",
+        "How he/she grows the plants",
+        "And explain why he/she loves growing plants"
+      ],
+      "part3": [
+        "What are the advantages of growing vegetables or flowers at home?",
+        "Do many people grow vegetables or flowers at home in your country?",
+        "Is it easy to grow plants at home?",
+        "Why do some people like to grow plants?",
+        "Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?"
+      ]
+    },
+    {
+      "id": "p2-new-law",
+      "title": "Describe a new law you would like to introduce in your country",
+      "pool": "5-8新题",
+      "category": "社会 / 法律",
+      "priority": 5,
+      "cue": [
+        "What law it is",
+        "What changes this law brings",
+        "Whether this new law will be popular",
+        "How you came up with the new law",
+        "And explain how you feel about this new law"
+      ],
+      "part3": [
+        "What rules should students follow at school?",
+        "Do people in your country usually obey the law?",
+        "What kinds of behavior are considered as good behavior?",
+        "Do you think children can learn about the law outside of school?",
+        "What are the benefits for people to obey rules?",
+        "How can parents teach children to obey rules?"
+      ]
+    },
+    {
+      "id": "p2-medical-career-person",
+      "title": "Describe a person you know who would like to choose a career in the medical field",
+      "pool": "5-8新题",
+      "category": "人物 / 职业",
+      "priority": 5,
+      "cue": [
+        "When you knew him/her",
+        "When he/she started to think about that",
+        "What he/she would like to do",
+        "And explain why he/she would like to choose this career"
+      ],
+      "part3": [
+        "Do you think being a doctor is easy or difficult?",
+        "Do you think learning biology is interesting for children?"
+      ]
+    },
+    {
+      "id": "p2-successful-business-person",
+      "title": "Describe a person you know who has a successful business",
+      "pool": "5-8新题",
+      "category": "人物 / 商业",
+      "priority": 5,
+      "cue": [
+        "Who this person is",
+        "How you got to know him/her",
+        "Why and how he/she started the business",
+        "What business he/she does",
+        "And explain why you think the business is successful"
+      ],
+      "part3": [
+        "Why do some people start their own business?",
+        "Should governments provide financial support to start-ups?",
+        "Do most people prefer shopping at big stores or small stores?",
+        "What makes a business successful?",
+        "What makes a business fail?"
+      ]
+    },
+    {
+      "id": "p2-changed-plan",
+      "title": "Describe a plan that you had to change recently",
+      "pool": "5-8新题",
+      "category": "经历 / 计划",
+      "priority": 5,
+      "cue": [
+        "When this happened",
+        "What made you change the plan",
+        "What the new plan was",
+        "And how you felt about the change"
+      ],
+      "part3": [
+        "Do people often change their plans?",
+        "Would you tell others if you change your plan?",
+        "Why do you think parents still make plans for their children nowadays?",
+        "How does technology help people make plans?"
+      ]
+    },
+    {
+      "id": "p2-worked-in-group",
+      "title": "Describe a time when you worked in a group",
+      "pool": "5-8新题",
+      "category": "经历 / 团队",
+      "priority": 5,
+      "cue": [
+        "What you did",
+        "Who you worked with",
+        "What problems you faced",
+        "And explain why you worked in the group"
+      ],
+      "part3": [
+        "Why do some people prefer to work by themselves?",
+        "What should a leader do to make team members want to follow him or her?",
+        "Should students learn to do group work?",
+        "What group tasks are there in schools?"
+      ]
+    },
+    {
+      "id": "p2-long-ambition",
+      "title": "Describe an ambition you have had for a long time",
+      "pool": "5-8新题",
+      "category": "个人 / 目标",
+      "priority": 5,
+      "cue": [
+        "What it was",
+        "How you got the desire to want to achieve it",
+        "What you have to do to achieve it",
+        "And explain how you feel about it"
+      ],
+      "part3": [
+        "What kinds of ambitions do people have?",
+        "Why should parents encourage children to have ambitions?",
+        "Should parents interfere with their children's ambitions?",
+        "Is there any difference between children's ambitions and those of grown-ups?"
+      ]
+    },
+    {
+      "id": "p2-special-occasion-food",
+      "title": "Describe a kind of food that you ate at special occasions",
+      "pool": "5-8新题",
+      "category": "饮食 / 文化",
+      "priority": 5,
+      "cue": [
+        "What it is",
+        "What occasion it was",
+        "Why you would like to eat it",
+        "And explain how you feel about it"
+      ],
+      "part3": [
+        "Why do people eat special food on special occasions or festivals?",
+        "What are the differences between everyday food and festival food?",
+        "Are there any differences between the food people eat today and the food people ate in the past?"
+      ]
+    },
+    {
+      "id": "p2-live-sport-match",
+      "title": "Describe a live sport match you have ever watched",
+      "pool": "5-8新题",
+      "category": "运动 / 经历",
+      "priority": 5,
+      "cue": [
+        "What it was",
+        "When you watched",
+        "What it was like",
+        "And explain how you felt about it"
+      ],
+      "part3": [
+        "What are the main differences between watching a sports event live in a stadium and watching it on TV?",
+        "What kinds of sports events are most popular to watch in your country?",
+        "What types of sports events or competitions are suitable for children to watch?"
+      ]
+    },
+    {
+      "id": "p2-celebrity-advertisement",
+      "title": "Describe an advertisement with a famous person in it",
+      "pool": "5-8新题",
+      "category": "广告 / 名人",
+      "priority": 5,
+      "cue": [
+        "Who the person is",
+        "Where you can see it",
+        "What the advertisement is about",
+        "And explain how you feel about the advertisement"
+      ],
+      "part3": [
+        "What are the advantages and disadvantages of advertisements?",
+        "Why are many advertisements endorsed by celebrities? How useful are they?",
+        "What is the most important factor in an advertisement?",
+        "Why are some advertisements boring?",
+        "Is advertising important for a company? Why?",
+        "Which is more effective, online advertising or offline advertising?"
+      ]
+    },
+    {
+      "id": "p2-local-news",
+      "title": "Describe a piece of local news that people are interested in",
+      "pool": "5-8新题",
+      "category": "新闻 / 社会",
+      "priority": 5,
+      "cue": [
+        "What it was about",
+        "Where you saw/heard it",
+        "Who was involved",
+        "And explain why people were interested in it"
+      ],
+      "part3": [
+        "Are there a lot of people talking about local news?",
+        "Do young people or the elderly care more about local news?",
+        "Do people in your country prefer following local news or national news?"
+      ]
+    },
+    {
+      "id": "p2-electronic-device-problem",
+      "title": "Describe a time when you had a problem with using an electronic device",
+      "pool": "5-8新题",
+      "category": "科技 / 问题",
+      "priority": 5,
+      "cue": [
+        "When it happened",
+        "Where it happened",
+        "What the problem was",
+        "And explain how you solved the problem at last"
+      ],
+      "part3": [
+        "Why are people keen on buying new electronic devices?",
+        "What impact do electronic devices have on people?"
+      ]
+    },
+    {
+      "id": "p2-important-decision",
+      "title": "Describe an important decision that you made",
+      "pool": "5-8新题",
+      "category": "经历 / 决定",
+      "priority": 5,
+      "cue": [
+        "What the decision was",
+        "How you made your decision",
+        "What the results of your decision were",
+        "And explain why it was important"
+      ],
+      "part3": [
+        "Do you think children sometimes have to make important decisions?",
+        "What important decisions do teenagers need to make after graduation?",
+        "Who can children turn to for help when making a decision?",
+        "Do you think advertisements can influence our decisions when shopping?",
+        "Do you think the influence of advertising is good?",
+        "How do people usually make important decisions?"
+      ]
+    },
+    {
+      "id": "p2-good-at-languages",
+      "title": "Describe a person who is good at learning and speaking new languages",
+      "pool": "5-8新题",
+      "category": "人物 / 语言",
+      "priority": 5,
+      "cue": [
+        "How you got to know him/her",
+        "How he/she learns a new language",
+        "What languages he/she can speak",
+        "And explain how you feel about him/her"
+      ],
+      "part3": [
+        "Are there many people who can speak foreign languages in your country?",
+        "Does speaking other languages help at work?",
+        "Do people learn any languages other than English?",
+        "Why is it easier for children to learn new things than for adults?",
+        "How do people learn new things?"
+      ]
+    },
+    {
+      "id": "p2-slow-message-reply",
+      "title": "Describe a person who has not replied to your messages for a long time",
+      "pool": "5-8新题",
+      "category": "人物 / 社交",
+      "priority": 5,
+      "cue": [
+        "Who he/she is",
+        "What message you sent him/her",
+        "Did he/she finally reply to you",
+        "And explain how you felt about him/her"
+      ],
+      "part3": []
+    },
+    {
+      "id": "p2-challenging-tech-problem",
+      "title": "Describe a challenging technological problem you faced",
+      "pool": "5-8新题",
+      "category": "科技 / 问题",
+      "priority": 5,
+      "cue": [
+        "What the problem was",
+        "When and where you faced it",
+        "How challenging it was",
+        "And explain how you solved it"
+      ],
+      "part3": [
+        "What are the advantages and disadvantages of AI?",
+        "Do you think people today should learn about AI technology?",
+        "Should children learn to use AI?",
+        "How can AI help in our lives?",
+        "Do you think students are overly reliant on AI?",
+        "What can teachers do to stop students relying too much on AI?"
+      ]
+    },
+    {
+      "id": "p2-recommend-travel-place",
+      "title": "Describe a place you have travelled to that you would like to recommend to others",
+      "pool": "5-8新题",
+      "category": "地点 / 旅行",
+      "priority": 5,
+      "cue": [
+        "What it is",
+        "Where it is",
+        "What you saw and did there",
+        "And explain why you would like to recommend it to others"
+      ],
+      "part3": [
+        "Where do people in your country often go for holidays?",
+        "Where do young people in your country often go for holidays?",
+        "What is the ideal length for a holiday?",
+        "How do people usually plan holidays?",
+        "Is it important to plan a holiday ahead?"
+      ]
+    },
+    {
+      "id": "p2-recent-tv-online-program",
+      "title": "Describe a TV show/online program you have watched recently",
+      "pool": "5-8新题",
+      "category": "媒体 / 娱乐",
+      "priority": 5,
+      "cue": [
+        "What it is",
+        "What it is about",
+        "How often you watch it",
+        "And explain how you feel about it"
+      ],
+      "part3": [
+        "What are the differences between the TV programs young people like to watch and those old people like to watch?",
+        "What makes a popular TV or online program?",
+        "What kinds of TV or online programs are popular in your country?"
+      ]
+    },
+    {
+      "id": "p2-home-visit-not-live",
+      "title": "Describe a home that you like to visit but do not want to live in",
+      "pool": "5-8新题",
+      "category": "地点 / 家",
+      "priority": 5,
+      "cue": [
+        "Where it is",
+        "What it is like",
+        "Why you like to visit it",
+        "And explain why you would not like to live there"
+      ],
+      "part3": [
+        "Do Chinese people like to visit others' homes?",
+        "What do Chinese people do when they visit others?",
+        "What kind of place do people in your country like to live in?",
+        "What's the difference between homes in cities and those in the countryside?"
+      ]
+    },
+    {
+      "id": "p2-story-book-with-animals",
+      "title": "Describe a story/book with animals in it",
+      "pool": "5-8新题",
+      "category": "动物 / 故事",
+      "priority": 5,
+      "cue": [
+        "What animals are in it",
+        "What the story/book is about",
+        "Why you read the story/book",
+        "And explain what you think of this story/book"
+      ],
+      "part3": [
+        "Should schools teach children about animals?",
+        "Some people think pets should not be kept in cities. What do you think?",
+        "Many people regard pets as members of their family. What do you think?",
+        "Do many people keep pets in your country?",
+        "What are the advantages of keeping a pet?",
+        "Why do people always tell children stories with animals?"
+      ]
+    },
+    {
+      "id": "p2-perfect-job",
+      "title": "Describe a perfect job you would like to have in the future",
+      "pool": "保留旧题",
+      "category": "职业 / 未来",
+      "priority": 3,
+      "cue": [
+        "What it is",
+        "How you knew it",
+        "What you need to learn to get this job",
+        "And explain why you think it is a perfect job for you"
+      ],
+      "part3": [
+        "What kind of job can be called a 'dream job'?",
+        "What jobs do children want to do when they grow up?",
+        "Do people's ideal jobs change as they grow up?",
+        "What should people consider when choosing jobs?",
+        "Is salary the main reason people choose a certain job?",
+        "What kind of jobs are the most popular in your country?"
+      ]
+    },
+    {
+      "id": "p2-famous-person-meet",
+      "title": "Describe a famous person you would like to meet",
+      "pool": "保留旧题",
+      "category": "人物 / 名人",
+      "priority": 3,
+      "cue": [
+        "Who he/she is",
+        "How you knew him/her",
+        "How/where you would like to meet him/her",
+        "And explain why you would like to meet him/her"
+      ],
+      "part3": [
+        "What are the advantages and disadvantages of being a famous child?",
+        "What can today's children do to become famous?",
+        "What can children do with their fame?",
+        "Do people become famous because of their talent?",
+        "Is it easy to become famous in your country?",
+        "Do you want to be a famous person?"
+      ]
+    },
+    {
+      "id": "p2-no-mobile-phone",
+      "title": "Describe an occasion when you were not allowed to use your mobile phone",
+      "pool": "保留旧题",
+      "category": "科技 / 场合",
+      "priority": 3,
+      "cue": [
+        "When it was",
+        "Where it was",
+        "Why you were not allowed to use your mobile phone",
+        "And how you felt about it"
+      ],
+      "part3": [
+        "How do young and old people use mobile phones differently?",
+        "What positive and negative impact do mobile phones have on friendship?",
+        "Is it a waste of time to take pictures with mobile phones?",
+        "Do you think it is necessary to have laws on the use of mobile phones?",
+        "What are examples of good and poor phone manners?",
+        "How does the internet benefit people?"
+      ]
+    },
+    {
+      "id": "p2-many-people-smiling",
+      "title": "Describe an occasion when many people were smiling",
+      "pool": "保留旧题",
+      "category": "经历 / 情绪",
+      "priority": 3,
+      "cue": [
+        "When it happened",
+        "Who you were with",
+        "What happened",
+        "And explain why most people were smiling"
+      ],
+      "part3": [
+        "Do you think people who like to smile are more friendly?",
+        "Why do most people smile in photographs?",
+        "Do women smile more than men? Why?",
+        "Do people smile more when they are younger or older?",
+        "Is smiling important in your culture?",
+        "Are there any occasions when people need to pretend to smile?"
+      ]
+    },
+    {
+      "id": "p2-proud-family-member",
+      "title": "Describe a time when you felt proud of a family member",
+      "pool": "保留旧题",
+      "category": "人物 / 家庭",
+      "priority": 3,
+      "cue": [
+        "When it happened",
+        "Who the person is",
+        "What the person did",
+        "And explain why you felt proud of him/her"
+      ],
+      "part3": [
+        "When would parents feel proud of their children?",
+        "Should parents reward children? Why and how?",
+        "Is it good to reward children too often? Why?",
+        "On what occasions would adults be proud of themselves?",
+        "Do rewards help a child become better?",
+        "What do you think about children working hard just for grades?"
+      ]
+    },
+    {
+      "id": "p2-gave-advice",
+      "title": "Describe a time when you gave advice to others",
+      "pool": "保留旧题",
+      "category": "经历 / 建议",
+      "priority": 3,
+      "cue": [
+        "When it was",
+        "To whom you gave the advice",
+        "What the advice was",
+        "And explain why you gave the advice"
+      ],
+      "part3": [
+        "Should people prepare before giving advice?",
+        "Is it good to ask advice from strangers online?",
+        "What are the personalities of people whose job is to give advice to others?",
+        "What are the problems if you ask too many people for advice?",
+        "Why do some people think it is better to ask for advice from friends than from parents?",
+        "When would old people ask young people for advice?"
+      ]
+    },
+    {
+      "id": "p2-child-loves-drawing",
+      "title": "Describe a child who loves drawing/painting",
+      "pool": "保留旧题",
+      "category": "人物 / 艺术",
+      "priority": 3,
+      "cue": [
+        "Who he/she is",
+        "How/when you knew him/her",
+        "How often he/she draws/paints",
+        "And explain why you think he/she loves drawing/painting"
+      ],
+      "part3": [
+        "What is the right age for a child to learn drawing?",
+        "Why do most children draw more often than adults do?",
+        "Why do some people visit galleries or museums instead of viewing artworks online?",
+        "Do you think galleries and museums should be free of charge?",
+        "How do artworks inspire people?",
+        "What are the differences between reading a book and visiting a museum?"
+      ]
+    },
+    {
+      "id": "p2-good-at-planning",
+      "title": "Describe a person who makes plans a lot and is good at planning",
+      "pool": "保留旧题",
+      "category": "人物 / 计划",
+      "priority": 3,
+      "cue": [
+        "Who he/she is",
+        "How you knew him/her",
+        "What plans he/she makes",
+        "And explain how you feel about this person"
+      ],
+      "part3": [
+        "Do you think it's important to plan ahead?",
+        "What activities do we need to plan ahead?",
+        "Do you think children should plan their future careers?",
+        "Should children ask their teachers or parents for advice when making plans?",
+        "Is making study plans popular among young people?",
+        "Do you think choosing a college major is closely related to a future career?"
+      ]
+    },
+    {
+      "id": "p2-app-program",
+      "title": "Describe a program or app on your computer or phone",
+      "pool": "保留旧题",
+      "category": "科技 / 应用",
+      "priority": 3,
+      "cue": [
+        "What it is",
+        "When/how you use it",
+        "Where you found it",
+        "And explain how you feel about it"
+      ],
+      "part3": [
+        "What are the differences between old and young people when using apps?",
+        "Why do some people not like using apps?",
+        "What apps are popular in your country? Why?",
+        "Should parents limit their children's use of computer programs and computer games?",
+        "Do you think young people rely more and more on these programs?",
+        "What do you think about some countries banning children from using social media?"
+      ]
+    },
+    {
+      "id": "p2-technology-own",
+      "title": "Describe a piece of technology that you would like to own",
+      "pool": "保留旧题",
+      "category": "科技 / 物品",
+      "priority": 3,
+      "cue": [
+        "What it is",
+        "How much it costs",
+        "How you knew it",
+        "And explain why you would like to own it"
+      ],
+      "part3": [
+        "What are the differences between the technology of the past and that of today?",
+        "What technology do young people like to use?",
+        "What are the differences between online and face-to-face communication?",
+        "Do you think technology has changed the way people communicate?",
+        "What negative effects does technology have on people's relationships?",
+        "What are the differences between making friends in real life and online?"
+      ]
+    },
+    {
+      "id": "p2-vehicle-trip",
+      "title": "Describe a bicycle/motorcycle/car trip you would like to take",
+      "pool": "保留旧题",
+      "category": "交通 / 旅行",
+      "priority": 3,
+      "cue": [
+        "Who you would like to go with",
+        "Where you would like to go",
+        "When you would like to go",
+        "And explain why you would like to go by bicycle/motorcycle/car"
+      ],
+      "part3": [
+        "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?",
+        "Do you think air pollution comes mostly from motor vehicles?",
+        "Do you think people need to change the way of transportation drastically to protect the environment?",
+        "How are the transportation systems in urban areas and rural areas different?",
+        "Why do more people own and drive private vehicles now?",
+        "What do you think of the future of electric cars?"
+      ]
+    },
+    {
+      "id": "p2-family-important-thing",
+      "title": "Describe something important that has been kept in your family for a long time",
+      "pool": "保留旧题",
+      "category": "物品 / 家庭",
+      "priority": 3,
+      "cue": [
+        "What it is",
+        "When your family had it",
+        "How your family got it",
+        "And explain why it is important to your family"
+      ],
+      "part3": [
+        "What things do families keep for a long time?",
+        "What's the difference between things valued by people in the past and today?",
+        "What kinds of things are kept in museums?",
+        "What's the influence of technology on museums?",
+        "What are the benefits of technology for learning history?",
+        "Why do people visit museums?"
+      ]
+    },
+    {
+      "id": "p2-smart-problem-solver",
+      "title": "Describe a person who solved a problem in a smart way",
+      "pool": "保留旧题",
+      "category": "人物 / 问题解决",
+      "priority": 3,
+      "cue": [
+        "Who this person is",
+        "What the problem was",
+        "How he/she solved it",
+        "And explain why you think he/she did it in a smart way"
+      ],
+      "part3": [
+        "Do you think children are born smart or do they learn to become smart?",
+        "How do children become smart at school?",
+        "Why are some people well-rounded and others only good at one thing?",
+        "Why does modern society need talents of all kinds?",
+        "Do you think smart children are happier than other children?",
+        "Is it important for schools to identify and develop each student's talents?"
+      ]
+    },
+    {
+      "id": "p2-unenjoyable-music-event",
+      "title": "Describe an event you attended in which you didn't enjoy the music played",
+      "pool": "保留旧题",
+      "category": "音乐 / 经历",
+      "priority": 3,
+      "cue": [
+        "What it was",
+        "Who you went with",
+        "Why you decided to go there",
+        "And explain why you didn't enjoy it"
+      ],
+      "part3": [
+        "What kind of music events do people like today?",
+        "Do you think children should receive some musical education?",
+        "What are the differences between old and young people's music preferences?",
+        "What kind of music events are there in your country?",
+        "Why do many people like listening to music while doing sports?",
+        "What are the differences between listening to music at home and at a live concert?"
+      ]
+    },
+    {
+      "id": "p2-movie-enjoyed-recently",
+      "title": "Describe a movie you watched and enjoyed recently",
+      "pool": "保留旧题",
+      "category": "电影 / 娱乐",
+      "priority": 3,
+      "cue": [
+        "When and where you watched it",
+        "Who you watched it with",
+        "What it was about",
+        "And explain why you watched this movie"
+      ],
+      "part3": [
+        "What kinds of movies do you think are successful in your country?",
+        "What are the factors that make a successful movie?",
+        "Do Chinese people prefer to watch domestic movies or foreign movies?",
+        "Do you think only well-known directors can create the best movies?",
+        "Do you think successful movies should have well-known actors or actresses in leading roles?",
+        "Why do people prefer to watch movies in the cinema?"
+      ]
+    },
+    {
+      "id": "p2-friend-self-taught",
+      "title": "Describe one of your friends who learned something without a teacher",
+      "pool": "保留旧题",
+      "category": "人物 / 学习",
+      "priority": 3,
+      "cue": [
+        "Who he/she is",
+        "What he/she learned",
+        "Why he/she learned this",
+        "And explain whether it would be easier to learn from a teacher"
+      ],
+      "part3": [
+        "Is it necessary to keep learning after graduating from school?",
+        "Should teachers make learning in their classes fun?",
+        "Do you think there are too many subjects for students to learn?",
+        "Is it better to focus on a few subjects or to learn many subjects?",
+        "Do you think enterprises should provide training for their employees?",
+        "Do you think it is good for older adults to continue learning?"
+      ]
+    },
+    {
+      "id": "p2-interesting-building",
+      "title": "Describe an interesting building",
+      "pool": "保留旧题",
+      "category": "地点 / 建筑",
+      "priority": 3,
+      "cue": [
+        "Where it is",
+        "What it looks like",
+        "What function it has",
+        "And explain why you think it is interesting"
+      ],
+      "part3": [
+        "What types of buildings are popular in your country?",
+        "Is it worth spending a lot of money on the exterior appearance of a building?",
+        "Is it more important for a building to look good on the outside or on the inside?",
+        "Why do people like to visit historical sites?",
+        "Do you think it's reasonable to charge an entry fee for visiting interesting buildings?",
+        "Is it better to live in a new building or an old one?"
+      ]
+    },
+    {
+      "id": "p2-use-imagination",
+      "title": "Describe a time you needed to use your imagination",
+      "pool": "保留旧题",
+      "category": "经历 / 想象力",
+      "priority": 3,
+      "cue": [
+        "When it was",
+        "Why you needed to use imagination",
+        "How difficult or easy it was",
+        "And explain how you felt about it"
+      ],
+      "part3": [
+        "Do you think adults can have lots of imagination?",
+        "Do you think imagination is essential for scientists?",
+        "What kinds of jobs need imagination?",
+        "What subjects are helpful for children's imagination?",
+        "What games help develop children's imagination?",
+        "How important is imagination to children?"
+      ]
+    },
+    {
+      "id": "p2-spent-more-than-expected",
+      "title": "Describe an item on which you spent more than expected",
+      "pool": "保留旧题",
+      "category": "物品 / 消费",
+      "priority": 3,
+      "cue": [
+        "What it is",
+        "How much you spent on it",
+        "Why you bought it",
+        "And explain why you think you spent more than expected"
+      ],
+      "part3": [
+        "Do you often buy more than you expected?",
+        "What do you think young people spend most of their money on?",
+        "Do you think it is important to save money? Why?",
+        "Do people buy things they don't need?",
+        "Do you think it is the rich people's responsibility to donate money to people in need?",
+        "What kind of things are people happy to pay a high price for?"
+      ]
+    },
+    {
+      "id": "p2-helpful-person",
+      "title": "Describe a person who often helps others",
+      "pool": "保留旧题",
+      "category": "人物 / 帮助",
+      "priority": 3,
+      "cue": [
+        "Who this person is",
+        "How often he/she helps others",
+        "How/why he/she helps others",
+        "And how you feel about this person"
+      ],
+      "part3": [
+        "What can children do to help their parents?",
+        "Should children help their parents with household chores?",
+        "What kind of help do people need when looking for a new job?",
+        "Who should people ask for help, colleagues or family members?",
+        "Do you think schools should teach children to do household chores?",
+        "Why are employees reluctant to ask their managers for help?"
+      ]
+    },
+    {
+      "id": "p2-encouraged-someone",
+      "title": "Describe a time when you encouraged someone to do something that he/she didn't want to do",
+      "pool": "保留旧题",
+      "category": "经历 / 鼓励",
+      "priority": 3,
+      "cue": [
+        "Who he or she is",
+        "What you encouraged him/her to do",
+        "How he/she reacted",
+        "And explain why you encouraged him/her to do it"
+      ],
+      "part3": [
+        "How can leaders encourage their employees?",
+        "When should parents encourage their children?",
+        "What kind of encouragement should parents give?",
+        "Do you think some people are better than others at persuading?",
+        "Should children do everything their parents ask them to do?",
+        "How can employers encourage their staff?"
+      ]
+    },
+    {
+      "id": "p2-short-term-job-abroad",
+      "title": "Describe a short-term job you want to have in a foreign country",
+      "pool": "保留旧题",
+      "category": "职业 / 海外",
+      "priority": 3,
+      "cue": [
+        "Where it is",
+        "How you know of it",
+        "What the job is",
+        "And explain why you want to do it"
+      ],
+      "part3": [
+        "What short-term jobs do young people do in other countries?",
+        "What challenges do young people face when working abroad?",
+        "What are the benefits of working for an international company?",
+        "What personal skills are required to work in an international company?",
+        "What kind of work can young people do in foreign countries?",
+        "Why are some people unwilling to work in other countries?"
+      ]
+    },
+    {
+      "id": "p2-look-after-natural-world",
+      "title": "Describe a person who likes to look after the natural world",
+      "pool": "保留旧题",
+      "category": "人物 / 自然",
+      "priority": 3,
+      "cue": [
+        "Who this person is",
+        "What he or she does",
+        "How he or she does it",
+        "How often he or she does it",
+        "And explain how you feel about this person"
+      ],
+      "part3": [
+        "Do you think parents should teach their children how to protect the environment?",
+        "What laws about the environment are effective in your country?",
+        "Which do you think people prefer, rewards or punishment, when it comes to government intervention in environmental protection?",
+        "Is it easy for children in cities to get close to the natural world?",
+        "What can people do to protect the natural world?",
+        "Is it important to teach students environmental protection at school?"
+      ]
+    },
+    {
+      "id": "p2-city-enjoyed-visiting",
+      "title": "Describe a city you enjoyed visiting",
+      "pool": "保留旧题",
+      "category": "地点 / 旅行",
+      "priority": 3,
+      "cue": [
+        "Where it is",
+        "When you visited it",
+        "How long you stayed there",
+        "What you did there",
+        "And explain why you enjoyed visiting it"
+      ],
+      "part3": [
+        "What kinds of facilities do big cities have?",
+        "Do you think modern cities are suitable for young people or old people?",
+        "Before you travel to a city, what factors would you consider?",
+        "What are the disadvantages of living in a very famous city?",
+        "Do you prefer to visit well-developed cities or cities with a long history?",
+        "For those who live in cities, is it because they want to or have to?"
+      ]
+    },
+    {
+      "id": "p2-shopping-place",
+      "title": "Describe a place where you enjoy shopping",
+      "pool": "保留旧题",
+      "category": "地点 / 消费",
+      "priority": 3,
+      "cue": [
+        "Where it is",
+        "How often you visit it",
+        "What you usually buy at the mall",
+        "And explain why it is a good place for shopping"
+      ],
+      "part3": [
+        "Why do people buy things they don't need?",
+        "Do you think it's a waste of time to go shopping?",
+        "Why are some people keen on shopping?",
+        "What kind of people like shopping?",
+        "Where do people like to shop in your country?",
+        "Do you think women like shopping more than men?"
+      ]
+    }
+  ]
+}
